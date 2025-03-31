@@ -1,7 +1,16 @@
 This code is used to add 3 integers together the user inputs.
 Users must input the three integers in
-this test example we will use 1, 2 and 3
-a = 1
-b = 2
-c = 3
-the sum should add up to 6.
+this test example we will use 1, 2 and 3 (outdated)
+this test will use 2,4, and 6 as test numbers
+a = 2
+b = 4
+c = 6
+the sum should add up to 12.
+
+Results ended with a 2 code was fixed to add the proper units
+
+This code should also give the sum of all three numbers multiplied together
+a = 2
+b = 4
+c = 6
+the total sum should be 48.
