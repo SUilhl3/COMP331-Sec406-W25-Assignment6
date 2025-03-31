@@ -17,10 +17,10 @@ public class Main {
         b = input.nextInt();
         System.out.println("Enter the third number: ");
         c = input.nextInt();
-        addSum = a*b*c;
-        multiSum = 2+4;
+        multiSum = a*b*c;
+        addSum = a+4+c;
         System.out.println("Your added sum is: " + addSum);
-        System.out.println("Your multiplied sum is " + addSum);
+        System.out.println("Your multiplied sum is " + multiSum);
 
     }
 }

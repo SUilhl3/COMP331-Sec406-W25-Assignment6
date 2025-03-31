@@ -14,3 +14,9 @@ a = 2
 b = 4
 c = 6
 the total sum should be 48.
+
+(debuging process #1)
+ - sum outcomes are not correct.
+ - changed the outcomes presented in the proper outcomes
+ - Addition was not displaying proper variables
+ - swapped the values of sum to their respected outcomes
