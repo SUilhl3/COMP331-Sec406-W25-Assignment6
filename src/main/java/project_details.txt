@@ -41,3 +41,6 @@ the sum should add up to 6.
 - sum outcomes weren't showing the proper outcomes.
 - some sum equations were using the wrong process to giving the wrong output for sum.
 - changed the words for display purposes.
+
+(Version v1.0.1)
+- Added thank you messages to the end of this page.

@@ -24,7 +24,7 @@ public class Main {
         System.out.println("The added sum is " + addSum);
         System.out.println("The multiplied sum is " + multiSum);
         System.out.println("The subtracted sum is " + subSum);
-
+        System.out.println("Thank you for using this code!");
 
     }
 }
