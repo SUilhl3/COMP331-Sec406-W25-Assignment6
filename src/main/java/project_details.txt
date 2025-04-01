@@ -3,6 +3,7 @@ Users must input the three integers in
 this test example we will use 1, 2 and 3 (outdated)
 this test will use 2,4, and 6 as test numbers (outdated)
 This test will use 10, 2, and 3.
+
 This code should give the sum of all three numbers added together
 a = 10
 b = 2
@@ -31,3 +32,10 @@ the total sum should be 5.
  - changed the outcomes presented in the proper outcomes
  - Addition was not displaying proper variables
  - swapped the values of sum to their respected outcomes
+
+this test example we will use 1, 2 and 3
+a = 1
+b = 2
+c = 3
+the sum should add up to 6.
+
