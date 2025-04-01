@@ -11,23 +11,19 @@ public class Main {
         int addSum;
         int multiSum;
         int subSum;
-        System.out.println("This code is used to show the sum three numbers being added together as well as multiplied together.");
-        int sum;
-        System.out.println("This code is used to mutiply three numbers together.");
-        System.out.println("Enter the first number: ");
+        System.out.println("This code is used to calculate the added, multiplied, and subtracted sums of three values the user inputs.");
+        System.out.println("Please enter the first number: ");
         a = input.nextInt();
-        System.out.println("Enter the second number");
+        System.out.println("Please enter the second number:");
         b = input.nextInt();
-        System.out.println("Enter the thrid number: ");
+        System.out.println("Please enter the third number: ");
         c = input.nextInt();
         multiSum = a*b*c;
-        addSum = a+c-b;
-        subSum = b-a+c;
-        System.out.println("Your added sum is: " + addSum);
-        System.out.println("Your multiplied sum is " + multiSum);
-        System.out.println("Your subtracted sum is " + multiSum);
-        sum = a*b;
-        System.out.println("Your sum is: " + sum);
+        addSum = a+b+c;
+        subSum = a-b-c;
+        System.out.println("The added sum is " + addSum);
+        System.out.println("The multiplied sum is " + multiSum);
+        System.out.println("The subtracted sum is " + subSum);
 
 
     }
