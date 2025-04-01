@@ -10,6 +10,7 @@ public class Main {
         int c;
         int addSum;
         int multiSum;
+        int subSum;
         System.out.println("This code is used to show the sum three numbers being added together as well as multiplied together.");
         System.out.println("Enter the first number: ");
         a = input.nextInt();
@@ -17,10 +18,12 @@ public class Main {
         b = input.nextInt();
         System.out.println("Enter the third number: ");
         c = input.nextInt();
-        addSum = a*b*c;
-        multiSum = 2+4;
+        multiSum = a*b*c;
+        addSum = a+c-b;
+        subSum = b-a+c;
         System.out.println("Your added sum is: " + addSum);
-        System.out.println("Your multiplied sum is " + addSum);
+        System.out.println("Your multiplied sum is " + multiSum);
+        System.out.println("Your subtracted sum is " + multiSum);
 
     }
 }
